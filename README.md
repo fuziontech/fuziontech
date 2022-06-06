@@ -6,21 +6,21 @@ I'm a Software Enginner
 
 ```js
 const me = {
-    pronouns: "He" | "Him",
-    code: {
-        uses: ["Go", "Python", "SQL", "Clojure", "Ruby", "Javascript"],
-        love: ["SQL", "Go"]
-    },
-    specialties: [
-			"ClickHouse",
-			"Data",
-			"Statistics",
-			"Infrastructure",
-			"Startups",
-			"Hiring"
-		],
-		hobbies: ["Cycling", "Motorcycling"]
-}
+  pronouns: "He" | "Him",
+  code: {
+    uses: ["Go", "Python", "SQL", "Clojure", "Ruby", "Javascript"],
+    love: ["SQL", "Go"],
+  },
+  specialties: [
+    "ClickHouse",
+    "Data",
+    "Statistics",
+    "Infrastructure",
+    "Startups",
+    "Hiring",
+  ],
+  hobbies: ["Cycling", "Motorcycling"],
+};
 ```
 
 ### status on Github
