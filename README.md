@@ -11,7 +11,14 @@ const me = {
         uses: ["Go", "Python", "SQL", "Clojure", "Ruby", "Javascript"],
         love: ["SQL", "Go"]
     },
-    specialties: ["ClickHouse", "Data", "Statistics", "Infrastructure", "Startups", "Hiring"],
+    specialties: [
+			"ClickHouse",
+			"Data",
+			"Statistics",
+			"Infrastructure",
+			"Startups",
+			"Hiring"
+		],
 		hobbies: ["Cycling", "Motorcycling"]
 }
 ```
