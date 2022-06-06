@@ -8,7 +8,7 @@ I'm a Software Enginner
 const me = {
     pronouns: "He" | "Him",
     code: {
-        uses: ["Go", "Python", "SQL", "Clojure", "Javascript"],
+        uses: ["Go", "Python", "SQL", "Clojure", "Ruby", "Javascript"],
         love: ["SQL", "Go"]
     },
     specialties: ["ClickHouse", "Data", "Startups", "Hiring", "Infrastructure"],
