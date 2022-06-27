@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm a Software Enginner
+I'm a Software Engineer and general Data Aficionado 
 
 ### A little more about me...
 
