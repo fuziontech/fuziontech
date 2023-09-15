@@ -8,8 +8,7 @@ I'm a Software Engineer and general Data Aficionado
 const me = {
   pronouns: "He" | "Him",
   code: {
-    uses: ["Go", "Python", "SQL", "Clojure", "Ruby", "Javascript"],
-    love: ["SQL", "Go"],
+    uses: ["Go", "Python", "SQL", "Elixir", "Typescript"],
   },
   specialties: [
     "ClickHouse",
