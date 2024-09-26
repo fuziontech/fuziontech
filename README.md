@@ -18,7 +18,7 @@ const me = {
     "Startups",
     "Hiring",
   ],
-  hobbies: ["Cycling", "Skiing", "Motorcycling"],
+  hobbies: ["Cycling", "Wing Foiling", "Skiing"],
 };
 ```
 
